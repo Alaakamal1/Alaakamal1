@@ -62,6 +62,5 @@
 
 <br clear="both">
 
-![Snake animation](https://cdn.jsdelivr.net/gh/Alaakamal1/Alaakamal1/output/snake.svg)
 
 ###
