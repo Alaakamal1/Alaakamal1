@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/Alaakamal1/output/main/snake.svg"></object>
+<img src="https://raw.githubusercontent.com/Alaakamal1/output/main/snake.svg" alt="Snake animation" />
 
 ###
